@@ -1,10 +1,10 @@
-package com.cg.c1;
+package com.cg.sample;
 
-public class C1 {
+public class SampleCode {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello aman");
+System.out.println("Hello");
 	}
 
 }
